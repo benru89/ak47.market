@@ -14,7 +14,7 @@ function Robes({ Component, pageProps }) {
         `}
       </style>
       <Head>
-        <title>robes.market</title>
+        <title>ak47.market</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;600;700&display=swap"
@@ -29,7 +29,7 @@ function Robes({ Component, pageProps }) {
           property="og:description"
           content="See the floor price of AK47s from the Dope Wars project."
         />
-        <meta property="og:image" content="https://robes.market/og.png" />
+        <meta property="og:image" content="https://ak47.market/og.png" />
         <script
           data-goatcounter="https://divinerobes.goatcounter.com/count"
           async
